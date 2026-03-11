@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (if large, but these seem small enough for now, 
+# except maybe we should exclude raw data if it grows)
+# raw_sales_data.csv
+
+# IDE settings
+.vscode/
+.idea/
